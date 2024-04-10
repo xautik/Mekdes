@@ -1,0 +1,42 @@
+/*
+|||||||||||||||||||||||||||||||||||||||
+||            Kayodee,2023           ||
+||               Visit               ||
+||      http://avocarter.rf.gd       ||
+|||||||||||||||||||||||||||||||||||||||
+*/
+*{
+    padding: 0;
+}
+html, body{
+    background-color: #040a22;
+    /*display: flex;*/
+    width: auto;
+    height: auto;
+}
+.content{
+    padding-bottom: 200px;
+    text-align: center;
+    justify-content: center;
+}
+.glp-title{
+    position: absolute;
+    top: 2%;
+    text-justify: auto;
+    font-family: "kalam", cursive;
+    color: #fff;
+    font-size: 40px;
+    margin-top: 30px;
+    padding-bottom: 10px;
+}
+.glp-content{
+    position: absolute;
+    text-wrap: wrap;
+    text-justify: auto;
+    left: 5%;
+    top: 25%;
+    font-family: 'Verdana', sans-serif;
+    color: rgba(255, 255, 255, 0.5);
+    width: 90%;
+    padding-top: 20px;
+}

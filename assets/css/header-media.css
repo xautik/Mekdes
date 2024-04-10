@@ -1,0 +1,17 @@
+/*
+|||||||||||||||||||||||||||||||||||||||
+||            Kayodee,2023           ||
+||               Visit               ||
+||      http://avocarter.rf.gd       ||
+|||||||||||||||||||||||||||||||||||||||
+*/
+
+@media screen and (max-width: 1200px){
+
+}
+@media screen and (max-width: 415px){
+    :body {display: flex;}
+}
+@media screen and (orientation: portrait){
+    :root { --mobile-view: 1; }
+}
