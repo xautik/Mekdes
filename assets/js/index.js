@@ -13,3 +13,8 @@ function topFunction(){
     document.body.scrollTop = 0; //safari
     document.documentElement.scrollTop = 0; //chrome
 }
+
+function clearInp(){
+    document.getElementsByTagName("input").value=""
+    /*document.getElementsByTagName("input").reset()*/
+}
